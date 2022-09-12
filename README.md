@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DefconK1ll4
 - 👀 I’m interested in ... Everything
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...C++ projects 
+- 🌱 I’m currently learning ...Software Development for Mobility-services
+- 💞️ I’m looking to collaborate on ...Software Development regarding embedded systems 
 - 📫 How to reach me ... Here
 
 <!---
